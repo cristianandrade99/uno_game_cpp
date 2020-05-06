@@ -1,0 +1,4 @@
+C:\Users\Y50\Documents\Personal\Estudios\C++\UNO\ProyectoUNO\Debug\ProyectoUNO.exe
+C:\Users\Y50\Documents\Personal\Estudios\C++\UNO\ProyectoUNO\Debug\ProyectoUNO.pdb
+C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\Debug\ProyectoUNO.exe
+C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\Debug\ProyectoUNO.pdb
