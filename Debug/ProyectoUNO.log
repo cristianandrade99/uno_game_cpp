@@ -1,11 +1,11 @@
 ﻿  ProyectoUNO.cpp
-C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\ProyectoUNO.cpp(116,27): warning C4018: '<': no coinciden signed/unsigned
-C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\ProyectoUNO.cpp(195,27): warning C4018: '<': no coinciden signed/unsigned
-C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\ProyectoUNO.cpp(208,46): warning C4018: '>=': no coinciden signed/unsigned
-C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\ProyectoUNO.cpp(262,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\ProyectoUNO.cpp(133,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\ProyectoUNO.cpp(213,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\ProyectoUNO.cpp(228,46): warning C4018: '>=': no coinciden signed/unsigned
 C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\ProyectoUNO.cpp(297,27): warning C4018: '<': no coinciden signed/unsigned
-C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\ProyectoUNO.cpp(317,67): warning C4018: '<=': no coinciden signed/unsigned
-C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\ProyectoUNO.cpp(502,23): warning C4018: '<': no coinciden signed/unsigned
-C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\ProyectoUNO.cpp(513,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\ProyectoUNO.cpp(332,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\ProyectoUNO.cpp(353,67): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\ProyectoUNO.cpp(370,31): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\ProyectoUNO.cpp(575,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\ProyectoUNO.cpp(586,23): warning C4018: '<': no coinciden signed/unsigned
   ProyectoUNO.vcxproj -> C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\Debug\ProyectoUNO.exe
-  ProyectoUNO.vcxproj -> C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\Debug\ProyectoUNO.pdb (PDB completo ->Parcial)
