@@ -235,7 +235,15 @@ struct Juego
     // Selecciona la primera carta para arrancar el juego
     void poner_primera_carta()
     {
-        int indice_aleatorio = randomint(0, baraja.size() - 1);
+        int indice_aleatorio = 0;
+        bool carta_es_tipo_color_numero = false;
+
+        while (!carta_es_tipo_color_numero)
+        {
+            indice_aleatorio = randomint(0, baraja.size() - 1);
+            carta_es_tipo_color_numero = baraja[indice_aleatorio].tipo == tipo_color_numero;
+        }
+
         vector<vector<Carta>> vectores = trasladar_carta(indice_aleatorio, baraja, baraja_juego);
         baraja = vectores[0];
         baraja_juego = vectores[1];

@@ -2,10 +2,10 @@
 C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\ProyectoUNO.cpp(133,27): warning C4018: '<': no coinciden signed/unsigned
 C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\ProyectoUNO.cpp(213,27): warning C4018: '<': no coinciden signed/unsigned
 C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\ProyectoUNO.cpp(228,46): warning C4018: '>=': no coinciden signed/unsigned
-C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\ProyectoUNO.cpp(297,27): warning C4018: '<': no coinciden signed/unsigned
-C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\ProyectoUNO.cpp(332,27): warning C4018: '<': no coinciden signed/unsigned
-C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\ProyectoUNO.cpp(353,67): warning C4018: '<=': no coinciden signed/unsigned
-C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\ProyectoUNO.cpp(370,31): warning C4018: '<': no coinciden signed/unsigned
-C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\ProyectoUNO.cpp(575,23): warning C4018: '<': no coinciden signed/unsigned
-C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\ProyectoUNO.cpp(586,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\ProyectoUNO.cpp(305,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\ProyectoUNO.cpp(340,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\ProyectoUNO.cpp(361,67): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\ProyectoUNO.cpp(378,31): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\ProyectoUNO.cpp(583,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\ProyectoUNO.cpp(594,23): warning C4018: '<': no coinciden signed/unsigned
   ProyectoUNO.vcxproj -> C:\Users\Y50\Documents\Personal\Estudios\C++\ProyectoUNO\Debug\ProyectoUNO.exe
